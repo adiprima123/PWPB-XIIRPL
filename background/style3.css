@@ -1,0 +1,18 @@
+body{
+    background-color: cadetblue;
+}
+
+.back-img{
+    background-image: url(../csply.jpg);
+    width: 1000;
+    height: 500;
+}
+
+.posisi{
+    background-image: url(../1.jpg);
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
