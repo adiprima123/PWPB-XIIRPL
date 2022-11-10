@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(144, 249, 152);
+}
+
+.wrapper{
+    background-color: aqua;
+    width: 1200px;
+    height: 100%;
+}
+
+.box-1{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(198, 196, 255);
+    /* untuk penilisan value ada 2 (1. Y XFAWDAWD
+    2. atas kanan bawah kiri */
+
+    margin:30px auto;
+}
+
+.box-2{
+    width: 200px;
+    height: 250px;
+    background-color: plum;
+    /* untuk penilisan value ada 2 (1. Y XFAWDAWD
+    2. atas kanan bawah kiri */
+    /* hanya margin yg menggunakan minus */
+    padding-left: 100px ;
+    padding-right: 100px ;
+}
+
+.box-3{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(160, 221, 172);
+    /* untuk penilisan value ada 2 (1. Y XFAWDAWD
+    2. atas kanan bawah kiri */
+    /* hanya margin yg menggunakan minus */
+    margin: 30px auto;
+    border-top: 8px solid black;
+    border-right: 8px dashed rebeccapurple;
+    border-bottom: 8px dotted peru;
+    border-left: 8px double blueviolet;
+}
